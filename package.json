@@ -1,0 +1,22 @@
+{
+    "name": "generator-react-redux",
+    "version": "0.1.0",
+    "description": "Generator for quickly scaffolding a react app (based off create-react-app) along with useful tools; Redux, react-router, enzyme",
+    "files": [
+        "generators"
+    ],
+    "main": "app/index.js",
+    "keywords": [
+        "redux",
+        "react",
+        "starter",
+        "scaffolding",
+        "create-react-app",
+        "yeoman-generator"
+    ],
+    "dependencies": {
+        "to-case": "^2.0.0",
+        "yeoman-generator": "^3.2.0",
+        "yosay": "^2.0.0"
+    }
+}
